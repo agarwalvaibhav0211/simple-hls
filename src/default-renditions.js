@@ -17,7 +17,7 @@ module.exports = [
         profile: 'main',
         hlsTime: '4',
         bv: '1400k',
-        maxrate: '1498',
+        maxrate: '1498k',
         bufsize: '2100k',
         ba: '128k',
         ts_title: '480p',
